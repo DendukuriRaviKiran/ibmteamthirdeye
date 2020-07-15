@@ -70,5 +70,5 @@ Additional Step : Hardware Description<br>
 		  Solenoid valves in the respective house act as a switch and with the help of external pipelines an architecture for the water flow is created.<br>
 		  Similar hardware is used  in each house and main tank and a inter connection of pipelines is formed.<br>
 <p align="center">
-  <img src="https://github.com/DendukuriRaviKiran/ibmteamthirdeye/blob/master/code/screenshots/hardware.png">
+  <img src="https://github.com/DendukuriRaviKiran/ibmteamthirdeye/blob/master/code/screenshots/Picture10.png">
 </p>
