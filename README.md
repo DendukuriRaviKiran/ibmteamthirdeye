@@ -1,4 +1,4 @@
-# ibmteamTheThirdEye
+# IBMteamTheThirdEye
 
 Submission for IBM Call for code 2020 <br>
 <br>
