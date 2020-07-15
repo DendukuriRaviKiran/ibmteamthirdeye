@@ -1,4 +1,4 @@
-# ibmteamthirdeye
+# ibmteamMiddleTribe
 
 Submission for IBM Call for code 2020 <br>
 <br>
@@ -65,10 +65,10 @@ Step 12: User Infographics <br>
 <p align="center">
   <img src="https://github.com/DendukuriRaviKiran/ibmteamthirdeye/blob/master/code/screenshots/chart-10.png">
 </p>
-Additional Step : Hardware Description
-		  Each house and the main tank contains a motor and flow sensor for regulating the amount and flow of water.
-		  Solenoid valves in the respective house act as a switch and with the help of external pipelines an architecture for the water flow is created.
-		  Similar hardware is used  in each house and main tank and a inter connection of pipelines is formed.
+Additional Step : Hardware Description<br>
+		  Each house and the main tank contains a motor and flow sensor for regulating the amount and flow of water.<br>
+		  Solenoid valves in the respective house act as a switch and with the help of external pipelines an architecture for the water flow is created.<br>
+		  Similar hardware is used  in each house and main tank and a inter connection of pipelines is formed.<br>
 <p align="center">
   <img src="https://github.com/DendukuriRaviKiran/ibmteamthirdeye/blob/master/code/screenshots/hardware.png">
 </p>
