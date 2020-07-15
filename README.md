@@ -69,7 +69,7 @@ Additional Step : Hardware Description<br>
 		  Each house and the main tank contains a motor and flow sensor for regulating the amount and flow of water.<br>
 		  Solenoid valves in the respective house act as a switch and with the help of external pipelines an architecture for the water flow is created.<br>
 		  Similar hardware is used  in each house and main tank and a inter connection of pipelines is formed.<br>
-		  The link code for the following :https://github.com/DendukuriRaviKiran/ibmteamthirdeye/tree/master/code/hardware<br>
+		  
 <p align="center">
   <img src="https://github.com/DendukuriRaviKiran/ibmteamthirdeye/blob/master/code/screenshots/Picture10.png">
 </p>
