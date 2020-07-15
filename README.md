@@ -9,7 +9,6 @@ Step 1: Cloud Credentials
 Step 2: Open Dashboard
   Click on Dashboard Icon
   <p align="center">
-  <img src="C:\Users\ACER\Desktop\tempfoldeloitte\code\screenshots\dashboard-0" width="350" title="hover text">
-  <img src="C:\Users\ACER\Desktop\tempfoldeloitte\code\screenshots\dashboard-0" width="350" alt="accessibility text">
+  <img src="http://www.deeplearning.net/software/theano/_static/theano_logo_allblue_200x46.png">
   </p>
   
