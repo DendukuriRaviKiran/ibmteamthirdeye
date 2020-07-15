@@ -28,10 +28,10 @@ STEP 4: Selection of Receiver <br>
 Step 5: Selection of Sender and Quantity <br>
         Select the House in which the desired water should come from and the desired quantity of water.<br>
 <p align="center">
-  <img src="https://github.com/DendukuriRaviKiran/ibmteamthirdeye/blob/master/code/screenshots/confirmation-4.png">
+  <img src="https://github.com/DendukuriRaviKiran/ibmteamthirdeye/blob/master/code/screenshots/User-2.png">
 </p>
 <p align="center">
-  <img src="https://github.com/DendukuriRaviKiran/ibmteamthirdeye/blob/master/code/screenshots/User-2.png">
+  <img src="https://github.com/DendukuriRaviKiran/ibmteamthirdeye/blob/master/code/screenshots/confirmation-4.png">
 </p>
 Step 7:  User Interface <br>
 	 The received data from the Dashboard is sent to their 	respective MQTT servers<br>
