@@ -1,4 +1,4 @@
-# ibmteamMiddleTribe
+# ibmteamTheThirdEye
 
 Submission for IBM Call for code 2020 <br>
 <br>
