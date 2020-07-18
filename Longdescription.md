@@ -1,4 +1,4 @@
-#Long Description
+# Long Description
 
 The objective of the proposed system is to eradicate the conventional water management system and create a market place where any house can buy and sell water 
 in their neighbourhood. Water sources like tankers and public sector water have impurities, come at irregular time intervals and tankers surge their prices based
