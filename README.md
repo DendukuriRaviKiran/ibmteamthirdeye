@@ -60,11 +60,10 @@ See [setup.md](setup.md)
 
 ## Authors
 
+* Vaishnavi Rudraraju
 * Dendukuri Ravi Kiran
-* Korivi Adi Siva Prasad Reddy
-* Aki Rohith
-* Varun Alla
-* CHOKKARAPU ANUDEEP
+* Nandu Tejaswini
+* Spuritha Mudireddy
 
 ## Acknowledgments
-* Vaishnavi Rudraraju for her voiceover in the Demo Video.
+* Aki Rohith for his editing in the Architecture.
